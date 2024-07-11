@@ -76,6 +76,8 @@ Merging Data: A new table named “Annual_trip_data_2022” was created to store
 Data Manipulation: After merging data, a new table named “analyze_annual_trip_data” was generated. This table includes additional columns such as “month,” “day,” “hour,” and “duration_minutes” to facilitate the comparison and analysis of ride frequencies. SQL Query: Manipulate Data
 [(https://github.com/JJRockzzzz/Google-Data-Analytics-Capstone-Project---2/blob/main/Manipulate%20Data.sql)]
 
+### Analyze Phase:
+
 In the Analyze phase, we delve into the data to uncover insights and address the key findings related to how annual members and casual riders use Cyclistic bikes differently. The focus is on understanding their behavior, preferences, and patterns to inform marketing strategies aimed at converting casual riders into annual members. To address the key findings, the following analyses were performed in SQL Server. 
 
 #### 1. Percentage of Casual Riders vs Annual Members
@@ -118,7 +120,7 @@ SQL Query: [Analyze Data](https://github.com/JJRockzzzz/Google-Data-Analytics-Ca
 
 <img width="421" alt="10  percentage of rides by time zone - result" src="https://github.com/JJRockzzzz/Google-Data-Analytics-Capstone-Project---2/blob/main/IMG8.png">
 
-### Analyze Phase: 
+### Share Phase: 
 
 The share phase presents the insights and findings derived from the analysis of Cyclistic Bike Share data using Tableau Public, a powerful data visualization tool. The analysis revealed several key findings:
 
