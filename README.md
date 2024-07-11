@@ -1,9 +1,6 @@
 
 ## Quick Links:
 ### Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
-### Visualization
-- Tableau: [Cyclistic Dashboard](https://public.tableau.com/views/CyclisticDashboard_3/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 
 ## Introduction
 
